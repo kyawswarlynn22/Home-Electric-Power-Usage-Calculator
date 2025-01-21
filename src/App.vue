@@ -149,7 +149,7 @@ function CalculatePowerBank() {
         <label for="hours">Usage Hours</label>
         <div class="flex justify-center items-center w-full space-x-2">
           <input class="border-gray-500 border-2 mt-2 p-2 w-full h-10 rounded-md" type="number"
-            placeholder="Enter Avaliable Power" name="hours" id="hours">
+            placeholder="Enter Usage Hours" name="hours" id="hours">
         </div>
       </div>
 
@@ -174,7 +174,7 @@ function CalculatePowerBank() {
         <label for="usage_watt">Usage Watt(Watt)</label>
         <div class="flex justify-center items-center w-full space-x-2">
           <input class="border-gray-500 border-2 mt-2 p-2 w-full h-10 rounded-md" type="number"
-            placeholder="Enter Power Appliance" name="usage_watt" id="usage_watt">
+            placeholder="Enter Power Usage" name="usage_watt" id="usage_watt">
         </div>
       </div>
 
@@ -182,7 +182,7 @@ function CalculatePowerBank() {
         <label for="capacity">Power Bank Capacity(mAh)</label>
         <div class="flex justify-center items-center w-full space-x-2">
           <input class="border-gray-500 border-2 mt-2 p-2 w-full h-10 rounded-md" type="number"
-            placeholder="Enter Avaliable Power" name="capacity" id="capacity">
+            placeholder="Enter Power Bank Capacity" name="capacity" id="capacity">
         </div>
       </div>
 
@@ -190,7 +190,7 @@ function CalculatePowerBank() {
         <label for="power_volt">Power Bank(Volt)</label>
         <div class="flex justify-center items-center w-full space-x-2">
           <input class="border-gray-500 border-2 mt-2 p-2 w-full h-10 rounded-md" type="number"
-            placeholder="Enter Avaliable Power" name="power_volt" id="power_volt">
+            placeholder="Enter Power Volt" name="power_volt" id="power_volt">
         </div>
       </div>
 
